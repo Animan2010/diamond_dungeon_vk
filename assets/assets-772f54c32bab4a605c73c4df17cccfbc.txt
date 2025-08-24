@@ -1,0 +1,69 @@
+fonts/Font.ttf
+fonts/FontMainL.fnt
+fonts/FontMainL.png
+fonts/FontMainM.fnt
+fonts/FontMainM.png
+fonts/FontMainMB.fnt
+fonts/FontMainMB.png
+fonts/FontMainS.fnt
+fonts/FontMainS.png
+fonts/FontMainXLB.fnt
+fonts/FontMainXLB.png
+fonts/FontNums.fnt
+fonts/FontNums.png
+graphics/Background.jpg
+graphics/Displacement.jpg
+graphics/GridNew.png
+graphics/InterfaceNewA.png
+graphics/InterfaceNewB.png
+graphics/ItemsA.png
+graphics/ItemsB.png
+levels/Levels.dat
+music/Haven.mp3
+particles/Gem.pt
+particles/Splash.pt
+particles/particle.png
+shaders/ColorBonus.frag
+shaders/ColorBonus.vert
+shaders/GemLightning.frag
+shaders/GemLightning.vert
+shaders/HorizontalAppearing.frag
+shaders/HorizontalAppearing.vert
+shaders/HorizontalBonus.frag
+shaders/HorizontalBonus.vert
+shaders/HorizontalLight.frag
+shaders/HorizontalLight.vert
+shaders/HorizontalLightning.frag
+shaders/HorizontalLightning.vert
+shaders/Lightning.frag
+shaders/Lightning.vert
+shaders/SandDisappearing.frag
+shaders/SandDisappearing.vert
+shaders/SplashBonus.frag
+shaders/SplashBonus.vert
+shaders/VerticalBonus.frag
+shaders/VerticalBonus.vert
+shaders/VerticalBonusLightning.frag
+shaders/VerticalBonusLightning.vert
+shaders/VerticalLightning.frag
+shaders/VerticalLightning.vert
+sound/Bonus Swap.mp3
+sound/Bonus Time.mp3
+sound/Button.mp3
+sound/Buy.mp3
+sound/CollectGem1.mp3
+sound/CollectGem2.mp3
+sound/CollectGem3.mp3
+sound/CollectGem4.mp3
+sound/Fall.mp3
+sound/Gem Swish.mp3
+sound/Level Completed.mp3
+sound/Level Failed.mp3
+sound/Magic Color.mp3
+sound/Magic Explosion.mp3
+sound/Star Fill.mp3
+sound/Star1.mp3
+sound/Star2.mp3
+sound/Star3.mp3
+sound/Treasure.mp3
+sound/Window Open.mp3

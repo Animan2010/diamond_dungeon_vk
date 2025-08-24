@@ -1,19 +1,31 @@
 d:assets:assets:0:application/unknown:1
+t:assets.txt:assets-772f54c32bab4a605c73c4df17cccfbc.txt:1612:text/plain:1
 d:fonts:fonts:0:application/unknown:1
 b:fonts/Font.ttf:fonts/Font-db3fd90207311aab037130900631ea14.ttf:85104:application/unknown:1
+t:fonts/FontMainL.fnt:fonts/FontMainL-e5aebac8f75b1e8820f0bc24db33f10a.fnt:20934:application/unknown:1
+i:fonts/FontMainL.png:fonts/FontMainL-15ef2f14893b32ebb788a5fde79fdbcc.png:25921:image/png:1
+t:fonts/FontMainM.fnt:fonts/FontMainM-eaec12f3607bfd88f249570031e120e8.fnt:20781:application/unknown:1
+i:fonts/FontMainM.png:fonts/FontMainM-c0d6cbf86cedf2b92b6c5506a41730d5.png:21144:image/png:1
+t:fonts/FontMainMB.fnt:fonts/FontMainMB-931d19d5bc470b344d6f94d28b778cfd.fnt:20782:application/unknown:1
+i:fonts/FontMainMB.png:fonts/FontMainMB-ae2c7709bbee67950e5cf3c47b4e6275.png:36417:image/png:1
+t:fonts/FontMainS.fnt:fonts/FontMainS-047008e98e4d85ae703047c616e90ccf.fnt:19597:application/unknown:1
+i:fonts/FontMainS.png:fonts/FontMainS-2035ca23750b3b8953a6d7f914136047.png:15564:image/png:1
+t:fonts/FontMainXLB.fnt:fonts/FontMainXLB-be4379cf1516f5ab5b1731ba6da7c3d2.fnt:21651:application/unknown:1
+i:fonts/FontMainXLB.png:fonts/FontMainXLB-2b008fd0398187a99615278e0144bbcc.png:68944:image/png:1
+t:fonts/FontNums.fnt:fonts/FontNums-2619323be3677166a3230a8b6a60a148.fnt:21648:application/unknown:1
+i:fonts/FontNums.png:fonts/FontNums-2b008fd0398187a99615278e0144bbcc.png:68944:image/png:1
 d:graphics:graphics:0:application/unknown:1
-i:graphics/Background.jpg:graphics/Background-1c6ad40c64c25726c98c3eb9175ab697.jpg:140138:image/jpeg:1
-i:graphics/Displacement.jpg:graphics/Displacement-6b65ef1c537b3fdab924ccae5f77bf98.jpg:86656:image/jpeg:1
-i:graphics/GridNew.png:graphics/GridNew-ba19f37b2a05dad35cb13a11e659c836.png:1790455:image/png:1
-i:graphics/InterfaceNewA.png:graphics/InterfaceNewA-d4103e4015078be0293a91a59e7ccd97.png:3004045:image/png:1
-i:graphics/InterfaceNewB.png:graphics/InterfaceNewB-c2c547b11696c21b88a1235f16a0fd01.png:90299:image/png:1
-i:graphics/ItemsA.png:graphics/ItemsA-ee74fb59ef177e0712ea0e5a0aece869.png:1396526:image/png:1
-i:graphics/ItemsB.png:graphics/ItemsB-2c5bcede2886d3f13297fb12c502455c.png:661600:image/png:1
+i:graphics/Background.jpg:graphics/Background-c69b8ed4130b1aa36761d2df3939355c.jpg:50043:image/jpeg:1
+i:graphics/Displacement.jpg:graphics/Displacement-06f8e2129955cfe9fa1037faf1535da3.jpg:60974:image/jpeg:1
+i:graphics/GridNew.png:graphics/GridNew-3771f45af4fce8992577aaefd071e15e.png:313343:image/png:1
+i:graphics/InterfaceNewA.png:graphics/InterfaceNewA-b98c5db5749b8fb39ce514d1d32233c9.png:490127:image/png:1
+i:graphics/InterfaceNewB.png:graphics/InterfaceNewB-556f5e0e07b2ee62c055d9e5b72bc711.png:22445:image/png:1
+i:graphics/ItemsA.png:graphics/ItemsA-2c80e80dd91fff593476bc9b4b596685.png:240821:image/png:1
+i:graphics/ItemsB.png:graphics/ItemsB-b1c7ead705adb8e652cf869d04628fa0.png:135142:image/png:1
 d:levels:levels:0:application/unknown:1
 b:levels/Levels.dat:levels/Levels-03cd8eb1683f00ff327da10f2317c227.dat:573033:application/unknown:1
 d:music:music:0:application/unknown:1
-a:music/Haven.mp3:music/Haven-c4fa24e1d5f6178ab0743d41c6cbe4eb.mp3:3663331:audio/mpeg:1
-a:music/Planning.mp3:music/Planning-ef9bf7c4643037de3ee9b739ecb08bbd.mp3:5174880:audio/mpeg:1
+a:music/Haven.mp3:music/Haven-82b5886c6b3140faf6fbba0c288404bb.mp3:1465721:audio/mpeg:1
 d:particles:particles:0:application/unknown:1
 b:particles/Gem.pt:particles/Gem-42506c2ee51c20b1238d4e6eb920193f.pt:2311:application/unknown:1
 i:particles/particle.png:particles/particle-ea77e3e7a9c97b5c76437ec8b5155613.png:1802:image/png:1
@@ -44,26 +56,26 @@ b:shaders/VerticalBonusLightning.vert:shaders/VerticalBonusLightning-61563625256
 b:shaders/VerticalLightning.frag:shaders/VerticalLightning-dd4911e3b65ceacb79e121cc36baf7b5.frag:1031:application/unknown:1
 b:shaders/VerticalLightning.vert:shaders/VerticalLightning-61563625256c9d16f47a54deeb6539e6.vert:464:application/unknown:1
 d:sound:sound:0:application/unknown:1
-a:sound/Bonus Swap.wav:sound/Bonus Swap-09b91d2af07569df5196aa3864768776.wav:193642:audio/x-wav:1
-a:sound/Bonus Time.wav:sound/Bonus Time-cc066cb0f156902f244bb4921e5b16ea.wav:287870:audio/x-wav:1
-a:sound/Button.ogg:sound/Button-6dadf535fcd2e5538343324e39ced661.ogg:5393:audio/ogg:1
-a:sound/Buy.ogg:sound/Buy-0362700d455a7bada8524ba34b9286b3.ogg:52935:audio/ogg:1
+a:sound/Bonus Swap.mp3:sound/Bonus Swap-17adb4e9ce46b56fcdbf0e3e45e1d8ed.mp3:18277:audio/mpeg:1
+a:sound/Bonus Time.mp3:sound/Bonus Time-3e854b19f06ec9654d2ab0388ef8c408.mp3:27001:audio/mpeg:1
+a:sound/Button.mp3:sound/Button-34ca52d8683cbad5409c6904859e7508.mp3:1388:audio/mpeg:1
+a:sound/Buy.mp3:sound/Buy-0a3b41f7b9670f447e60d4052613814b.mp3:15212:audio/mpeg:1
 a:sound/CollectGem1.mp3:sound/CollectGem1-08c1fa493cea9edea5e36d7b8f4ff630.mp3:14336:audio/mpeg:1
 a:sound/CollectGem2.mp3:sound/CollectGem2-bce0a7baddc8a46e833c13081cfc3feb.mp3:14336:audio/mpeg:1
 a:sound/CollectGem3.mp3:sound/CollectGem3-5241eae34482cad5ac7a4c96fe1d7519.mp3:14336:audio/mpeg:1
 a:sound/CollectGem4.mp3:sound/CollectGem4-00bebd0ac0520620d496722568b6785e.mp3:10240:audio/mpeg:1
-a:sound/Fall.ogg:sound/Fall-fa4ea62ff4342f6544f0702c38368478.ogg:10719:audio/ogg:1
-a:sound/Gem Swish.wav:sound/Gem Swish-166f10ea5ef4b452b3592b423b96e05c.wav:54574:audio/x-wav:1
-a:sound/Level Completed.wav:sound/Level Completed-e0cb6289401852cd8e6583f83ff16bdf.wav:333884:audio/x-wav:1
-a:sound/Level Failed.wav:sound/Level Failed-b677f6f91c70949a6acd5fb8e48a5e5e.wav:567696:audio/x-wav:1
-a:sound/Magic Color.wav:sound/Magic Color-6b0ae64e7a69d5dd2b192bba6ee99989.wav:289098:audio/x-wav:1
-a:sound/Magic Explosion.wav:sound/Magic Explosion-db012292a72f38e6eabc23322b2fc6b8.wav:165550:audio/x-wav:1
-a:sound/Star Fill.wav:sound/Star Fill-5b60ab99be774a43942298f3daa6b5ce.wav:213998:audio/x-wav:1
-a:sound/Star1.wav:sound/Star1-7a9ecee3d7c6b595abedb061c3c7adda.wav:140896:audio/x-wav:1
-a:sound/Star2.wav:sound/Star2-88ddf261f728bc077ed6b7c32f7e42d9.wav:144748:audio/x-wav:1
-a:sound/Star3.wav:sound/Star3-87cb3d2d8e077adc801dcb7134e378b1.wav:168452:audio/x-wav:1
-a:sound/Treasure.wav:sound/Treasure-1540d6cae1df26423fbd070fd56c217a.wav:282900:audio/x-wav:1
-a:sound/Window Open.wav:sound/Window Open-8dc82c1c151b2e76c893316080191168.wav:77562:audio/x-wav:1
+a:sound/Fall.mp3:sound/Fall-acdbe2a2c6d6921197a6b91f24ac3343.mp3:2540:audio/mpeg:1
+a:sound/Gem Swish.mp3:sound/Gem Swish-03ae8dd49aabe55d117efaa935acc43b.mp3:5738:audio/mpeg:1
+a:sound/Level Completed.mp3:sound/Level Completed-dd5f1fd9cefefd90735b4cf49fb27fa3.mp3:31181:audio/mpeg:1
+a:sound/Level Failed.mp3:sound/Level Failed-f08170d837206741014b42731ff7934b.mp3:52496:audio/mpeg:1
+a:sound/Magic Color.mp3:sound/Magic Color-6342292b2f36829566e7fe710d3fe93f.mp3:27054:audio/mpeg:1
+a:sound/Magic Explosion.mp3:sound/Magic Explosion-988716a66f0ecbff10820f1f0b3bc89c.mp3:15769:audio/mpeg:1
+a:sound/Star Fill.mp3:sound/Star Fill-0a02aa9d5d42c2b32350585f34c47058.mp3:20367:audio/mpeg:1
+a:sound/Star1.mp3:sound/Star1-d5d13913870fc4d1c547449f6a05d85e.mp3:13626:audio/mpeg:1
+a:sound/Star2.mp3:sound/Star2-8802129b17ed155d90f4e0a59124f1ac.mp3:14044:audio/mpeg:1
+a:sound/Star3.mp3:sound/Star3-ada474c7d719ea9c9928238900961318.mp3:16134:audio/mpeg:1
+a:sound/Treasure.mp3:sound/Treasure-e7501941e8cb69e2ae77211396fffe72.mp3:26583:audio/mpeg:1
+a:sound/Window Open.mp3:sound/Window Open-2d3eecabcf1b2f4990cc72fdf743084d.mp3:7828:audio/mpeg:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
@@ -71,4 +83,4 @@ t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:default.vertex-28b7e
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:depth.fragment-8341d5ce47fc398da575c9e294b6821b.glsl:869:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:depth.vertex-98a450f1f747c05eedb7122779187316.glsl:2931:application/unknown:1
 t:com/badlogic/gdx/utils/lsans-15.fnt:lsans-15-5143ae9583bc43b1084f98062e054ae8.fnt:17711:application/unknown:1
-i:com/badlogic/gdx/utils/lsans-15.png:lsans-15-afe63790f9c73ea9a111fd9843835d21.png:14652:image/png:1
+i:com/badlogic/gdx/utils/lsans-15.png:lsans-15-8e00ff5b9dd15a3c18c1eb75f68c695a.png:10270:image/png:1
