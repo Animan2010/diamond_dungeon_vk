@@ -48,7 +48,33 @@
                      window.LanguageCheck("ru");
                      window.InitializeAfterYandexInit();
                      window.InitPlatformSettings("vk");
-                     vkBridge.send("VKWebAppInit", {});
+
+                     window.ShowBanner = function showBanner() {
+                        vkBridge.send('VKWebAppGetClientVersion').then((data) => {
+                                            // Данные пользователя получены
+                                            vkBridge.send('VKWebAppShowBannerAd',
+                                                {banner_location: 'bottom'}).then((data) => {
+                                               if (data.result) {
+                                                 // Баннерная реклама отобразилась
+                                               }
+                                             }).catch((error) => {
+                                               // Ошибка
+                                               console.log(error);
+                                             });
+                                     })
+                                     .catch((error) => {
+                                       // Ошибка
+                                       console.log(error);
+                                     });
+                      }
+                     
+                     vkBridge.send('VKWebAppInit').then((data) => {
+                            try {
+                                   window.ShowBanner();
+                            } catch (error) {
+                                   console.log(error);
+                            }
+                     });
 
                     window.InitPlayer = function initPlayer() {
 
@@ -130,24 +156,6 @@
                       }
                       window.HideBanner = function hideBanner() {
 
-                      }
-                      window.ShowBanner = function showBanner() {
-                        vkBridge.send('VKWebAppGetClientVersion').then((data) => {
-                                            // Данные пользователя получены
-                                            vkBridge.send('VKWebAppShowBannerAd',
-                                                {banner_location: 'bottom'}).then((data) => {
-                                               if (data.result) {
-                                                 // Баннерная реклама отобразилась
-                                               }
-                                             }).catch((error) => {
-                                               // Ошибка
-                                               console.log(error);
-                                             });
-                                     })
-                                     .catch((error) => {
-                                       // Ошибка
-                                       console.log(error);
-                                     });
                       }
                     window.ShowInterstitial = function showInterstitial() {
                         vkBridge.send("VKWebAppShowNativeAds", {"ad_format": "interstitial"});
