@@ -18,6 +18,7 @@ graphics/InterfaceNewA.png
 graphics/InterfaceNewB.png
 graphics/ItemsA.png
 graphics/ItemsB.png
+graphics/PiggyBank.png
 levels/Levels.dat
 music/Haven.mp3
 particles/Gem.pt
