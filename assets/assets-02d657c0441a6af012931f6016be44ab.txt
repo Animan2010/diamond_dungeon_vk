@@ -21,6 +21,7 @@ graphics/ItemsB.png
 graphics/PiggyBank.png
 levels/Levels.dat
 music/Haven.mp3
+music/Planning.mp3
 particles/Gem.pt
 particles/Splash.pt
 particles/particle.png

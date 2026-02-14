@@ -1,82 +1,83 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-1bb2604cd46d589316a4f28de6bec81c.txt:1635:text/plain:1
-d:fonts:fonts:0:application/unknown:1
-b:fonts/Font.ttf:fonts/Font-db3fd90207311aab037130900631ea14.ttf:85104:application/unknown:1
-t:fonts/FontMainL.fnt:fonts/FontMainL-e5aebac8f75b1e8820f0bc24db33f10a.fnt:20934:application/unknown:1
-i:fonts/FontMainL.png:fonts/FontMainL-15ef2f14893b32ebb788a5fde79fdbcc.png:25921:image/png:1
-t:fonts/FontMainM.fnt:fonts/FontMainM-eaec12f3607bfd88f249570031e120e8.fnt:20781:application/unknown:1
-i:fonts/FontMainM.png:fonts/FontMainM-c0d6cbf86cedf2b92b6c5506a41730d5.png:21144:image/png:1
-t:fonts/FontMainMB.fnt:fonts/FontMainMB-931d19d5bc470b344d6f94d28b778cfd.fnt:20782:application/unknown:1
-i:fonts/FontMainMB.png:fonts/FontMainMB-ae2c7709bbee67950e5cf3c47b4e6275.png:36417:image/png:1
-t:fonts/FontMainS.fnt:fonts/FontMainS-047008e98e4d85ae703047c616e90ccf.fnt:19597:application/unknown:1
-i:fonts/FontMainS.png:fonts/FontMainS-2035ca23750b3b8953a6d7f914136047.png:15564:image/png:1
-t:fonts/FontMainXLB.fnt:fonts/FontMainXLB-be4379cf1516f5ab5b1731ba6da7c3d2.fnt:21651:application/unknown:1
-i:fonts/FontMainXLB.png:fonts/FontMainXLB-2b008fd0398187a99615278e0144bbcc.png:68944:image/png:1
-t:fonts/FontNums.fnt:fonts/FontNums-2619323be3677166a3230a8b6a60a148.fnt:21648:application/unknown:1
-i:fonts/FontNums.png:fonts/FontNums-2b008fd0398187a99615278e0144bbcc.png:68944:image/png:1
-d:graphics:graphics:0:application/unknown:1
-i:graphics/Background.jpg:graphics/Background-c69b8ed4130b1aa36761d2df3939355c.jpg:50043:image/jpeg:1
-i:graphics/Displacement.jpg:graphics/Displacement-06f8e2129955cfe9fa1037faf1535da3.jpg:60974:image/jpeg:1
-i:graphics/GridNew.png:graphics/GridNew-19accdb8c876234209f5905815843d36.png:1012051:image/png:1
-i:graphics/InterfaceNewA.png:graphics/InterfaceNewA-b98c5db5749b8fb39ce514d1d32233c9.png:490127:image/png:1
-i:graphics/InterfaceNewB.png:graphics/InterfaceNewB-bb1f1e364a0f083a8ce7ae79be51139c.png:118166:image/png:1
-i:graphics/ItemsA.png:graphics/ItemsA-2c80e80dd91fff593476bc9b4b596685.png:240821:image/png:1
-i:graphics/ItemsB.png:graphics/ItemsB-b1c7ead705adb8e652cf869d04628fa0.png:135142:image/png:1
-i:graphics/PiggyBank.png:graphics/PiggyBank-c623cbd8dee4e03f8fb75a345e7c07e1.png:64670:image/png:1
-d:levels:levels:0:application/unknown:1
-b:levels/Levels.dat:levels/Levels-9b7dcdcb86aefbf5df2773fe0bdee47b.dat:860426:application/unknown:1
 d:music:music:0:application/unknown:1
+a:music/Planning.mp3:music/Planning-ef9bf7c4643037de3ee9b739ecb08bbd.mp3:5174880:audio/mpeg:0
 a:music/Haven.mp3:music/Haven-82b5886c6b3140faf6fbba0c288404bb.mp3:1465721:audio/mpeg:0
 d:particles:particles:0:application/unknown:1
 b:particles/Gem.pt:particles/Gem-42506c2ee51c20b1238d4e6eb920193f.pt:2311:application/unknown:1
-i:particles/particle.png:particles/particle-ea77e3e7a9c97b5c76437ec8b5155613.png:1802:image/png:1
 b:particles/Splash.pt:particles/Splash-a8087a016c1f99563c29350e7dd3b84f.pt:2314:application/unknown:1
+i:particles/particle.png:particles/particle-ea77e3e7a9c97b5c76437ec8b5155613.png:1802:image/png:1
 d:shaders:shaders:0:application/unknown:1
-b:shaders/ColorBonus.frag:shaders/ColorBonus-5945083231d8f9ad89656e542b1f6a79.frag:403:application/unknown:1
-b:shaders/ColorBonus.vert:shaders/ColorBonus-318ad0a96846b6a398e785fc2005ef7c.vert:455:application/unknown:1
-b:shaders/GemLightning.frag:shaders/GemLightning-a0c12ecd83326e08d31625d5afef892c.frag:598:application/unknown:1
-b:shaders/GemLightning.vert:shaders/GemLightning-318ad0a96846b6a398e785fc2005ef7c.vert:455:application/unknown:1
-b:shaders/HorizontalAppearing.frag:shaders/HorizontalAppearing-6d9d3909ce38e795d4ab696ea72db8d8.frag:586:application/unknown:1
-b:shaders/HorizontalAppearing.vert:shaders/HorizontalAppearing-318ad0a96846b6a398e785fc2005ef7c.vert:455:application/unknown:1
-b:shaders/HorizontalBonus.frag:shaders/HorizontalBonus-20f3bdc4b0c7816f83c866c467f4d8bd.frag:756:application/unknown:1
-b:shaders/HorizontalBonus.vert:shaders/HorizontalBonus-318ad0a96846b6a398e785fc2005ef7c.vert:455:application/unknown:1
-b:shaders/HorizontalLight.frag:shaders/HorizontalLight-a980bd3277e1f6b00399e3cf8ab218f6.frag:537:application/unknown:1
-b:shaders/HorizontalLight.vert:shaders/HorizontalLight-318ad0a96846b6a398e785fc2005ef7c.vert:455:application/unknown:1
-b:shaders/HorizontalLightning.frag:shaders/HorizontalLightning-aab73ee0145128f8a6105aa910331513.frag:1031:application/unknown:1
-b:shaders/HorizontalLightning.vert:shaders/HorizontalLightning-61563625256c9d16f47a54deeb6539e6.vert:464:application/unknown:1
-b:shaders/Lightning.frag:shaders/Lightning-ad83a878a0a75e4b07dc371a8e4d1991.frag:440:application/unknown:1
-b:shaders/Lightning.vert:shaders/Lightning-61563625256c9d16f47a54deeb6539e6.vert:464:application/unknown:1
-b:shaders/SandDisappearing.frag:shaders/SandDisappearing-7f982eb219788f217c69abfdb1700cc4.frag:285:application/unknown:1
-b:shaders/SandDisappearing.vert:shaders/SandDisappearing-13bd08925ae8655fb220502b8a286af1.vert:553:application/unknown:1
-b:shaders/SplashBonus.frag:shaders/SplashBonus-a58b6637fed24f6a24971b8c065c90ec.frag:635:application/unknown:1
-b:shaders/SplashBonus.vert:shaders/SplashBonus-318ad0a96846b6a398e785fc2005ef7c.vert:455:application/unknown:1
-b:shaders/VerticalBonus.frag:shaders/VerticalBonus-32a291349098aecb873b2b9ffe52fd19.frag:756:application/unknown:1
-b:shaders/VerticalBonus.vert:shaders/VerticalBonus-318ad0a96846b6a398e785fc2005ef7c.vert:455:application/unknown:1
-b:shaders/VerticalBonusLightning.frag:shaders/VerticalBonusLightning-9eebde74203e5b6b317b44cfc0bb8697.frag:1423:application/unknown:1
-b:shaders/VerticalBonusLightning.vert:shaders/VerticalBonusLightning-61563625256c9d16f47a54deeb6539e6.vert:464:application/unknown:1
-b:shaders/VerticalLightning.frag:shaders/VerticalLightning-dd4911e3b65ceacb79e121cc36baf7b5.frag:1031:application/unknown:1
-b:shaders/VerticalLightning.vert:shaders/VerticalLightning-61563625256c9d16f47a54deeb6539e6.vert:464:application/unknown:1
+b:shaders/GemLightning.frag:shaders/GemLightning-93ad381dd4735d2e60c6b2dc783627c0.frag:576:application/unknown:1
+b:shaders/HorizontalLight.frag:shaders/HorizontalLight-37225c61035c78c3f182ed51af1d47bc.frag:513:application/unknown:1
+b:shaders/ColorBonus.frag:shaders/ColorBonus-23256e908d4058e657d148ceffdc6c3a.frag:383:application/unknown:1
+b:shaders/VerticalBonus.frag:shaders/VerticalBonus-23760a342a6e22026916791941844596.frag:726:application/unknown:1
+b:shaders/Lightning.vert:shaders/Lightning-86497fe1a5d23b75b3953b4041c25712.vert:443:application/unknown:1
+b:shaders/SplashBonus.vert:shaders/SplashBonus-ef58501418357a9c4f4a9e5c334222d5.vert:434:application/unknown:1
+b:shaders/VerticalLightning.vert:shaders/VerticalLightning-86497fe1a5d23b75b3953b4041c25712.vert:443:application/unknown:1
+b:shaders/HorizontalAppearing.frag:shaders/HorizontalAppearing-330482f323b3a4738062727e91bb47c9.frag:559:application/unknown:1
+b:shaders/VerticalBonusLightning.frag:shaders/VerticalBonusLightning-e240f2fa66f6bb1372051043c78c6d3d.frag:1377:application/unknown:1
+b:shaders/HorizontalBonus.vert:shaders/HorizontalBonus-ef58501418357a9c4f4a9e5c334222d5.vert:434:application/unknown:1
+b:shaders/SandDisappearing.vert:shaders/SandDisappearing-b639c13e1533c02a2e8338932a46d1cf.vert:528:application/unknown:1
+b:shaders/HorizontalLightning.vert:shaders/HorizontalLightning-86497fe1a5d23b75b3953b4041c25712.vert:443:application/unknown:1
+b:shaders/Lightning.frag:shaders/Lightning-156697fe48f4df7c75a51f771849d2d7.frag:419:application/unknown:1
+b:shaders/VerticalBonus.vert:shaders/VerticalBonus-ef58501418357a9c4f4a9e5c334222d5.vert:434:application/unknown:1
+b:shaders/GemLightning.vert:shaders/GemLightning-ef58501418357a9c4f4a9e5c334222d5.vert:434:application/unknown:1
+b:shaders/ColorBonus.vert:shaders/ColorBonus-ef58501418357a9c4f4a9e5c334222d5.vert:434:application/unknown:1
+b:shaders/HorizontalLight.vert:shaders/HorizontalLight-ef58501418357a9c4f4a9e5c334222d5.vert:434:application/unknown:1
+b:shaders/HorizontalLightning.frag:shaders/HorizontalLightning-4eac1578fc02c7b280f05175afb8dc51.frag:997:application/unknown:1
+b:shaders/SandDisappearing.frag:shaders/SandDisappearing-78a25fcbb34f17dcf3379484b49b67e4.frag:276:application/unknown:1
+b:shaders/HorizontalBonus.frag:shaders/HorizontalBonus-2fa414c5fc19da5c4b46e64dbeaf2fd7.frag:726:application/unknown:1
+b:shaders/VerticalBonusLightning.vert:shaders/VerticalBonusLightning-86497fe1a5d23b75b3953b4041c25712.vert:443:application/unknown:1
+b:shaders/VerticalLightning.frag:shaders/VerticalLightning-f85a299ed5bff5497d06ad5e18841d2b.frag:997:application/unknown:1
+b:shaders/HorizontalAppearing.vert:shaders/HorizontalAppearing-ef58501418357a9c4f4a9e5c334222d5.vert:434:application/unknown:1
+b:shaders/SplashBonus.frag:shaders/SplashBonus-6dcfea5df204dbb7d4ef31c251559592.frag:608:application/unknown:1
+t:assets.txt:assets-02d657c0441a6af012931f6016be44ab.txt:1654:text/plain:1
+d:levels:levels:0:application/unknown:1
+b:levels/Levels.dat:levels/Levels-3125d04ea3f6d8a590d6eeac08577ed4.dat:847493:application/unknown:1
+d:graphics:graphics:0:application/unknown:1
+i:graphics/PiggyBank.png:graphics/PiggyBank-c623cbd8dee4e03f8fb75a345e7c07e1.png:64670:image/png:1
+i:graphics/GridNew.png:graphics/GridNew-19accdb8c876234209f5905815843d36.png:1012051:image/png:1
+i:graphics/ItemsA.png:graphics/ItemsA-2c80e80dd91fff593476bc9b4b596685.png:240821:image/png:1
+i:graphics/ItemsB.png:graphics/ItemsB-b1c7ead705adb8e652cf869d04628fa0.png:135142:image/png:1
+i:graphics/Background.jpg:graphics/Background-c69b8ed4130b1aa36761d2df3939355c.jpg:50043:image/jpeg:1
+i:graphics/InterfaceNewB.png:graphics/InterfaceNewB-bb1f1e364a0f083a8ce7ae79be51139c.png:118166:image/png:1
+i:graphics/InterfaceNewA.png:graphics/InterfaceNewA-b98c5db5749b8fb39ce514d1d32233c9.png:490127:image/png:1
+i:graphics/Displacement.jpg:graphics/Displacement-06f8e2129955cfe9fa1037faf1535da3.jpg:60974:image/jpeg:1
+d:fonts:fonts:0:application/unknown:1
+i:fonts/FontMainMB.png:fonts/FontMainMB-ae2c7709bbee67950e5cf3c47b4e6275.png:36417:image/png:1
+t:fonts/FontMainMB.fnt:fonts/FontMainMB-83f620b00df2584289df4ee9394429da.fnt:20559:application/unknown:1
+t:fonts/FontMainL.fnt:fonts/FontMainL-e627108f5157c3c50fca8b7f5a71d208.fnt:20707:application/unknown:1
+t:fonts/FontMainM.fnt:fonts/FontMainM-3c7a18129ac2318db40540241bfb346d.fnt:20558:application/unknown:1
+b:fonts/Font.ttf:fonts/Font-db3fd90207311aab037130900631ea14.ttf:85104:application/unknown:1
+i:fonts/FontMainM.png:fonts/FontMainM-c0d6cbf86cedf2b92b6c5506a41730d5.png:21144:image/png:1
+i:fonts/FontMainL.png:fonts/FontMainL-15ef2f14893b32ebb788a5fde79fdbcc.png:25921:image/png:1
+t:fonts/FontMainS.fnt:fonts/FontMainS-5eaad05d8e39fbba0d3e48bf67f1b89d.fnt:19404:application/unknown:1
+i:fonts/FontMainXLB.png:fonts/FontMainXLB-2b008fd0398187a99615278e0144bbcc.png:68944:image/png:1
+i:fonts/FontMainS.png:fonts/FontMainS-2035ca23750b3b8953a6d7f914136047.png:15564:image/png:1
+t:fonts/FontMainXLB.fnt:fonts/FontMainXLB-3137e84e5bd5aea20e39faa5138802c5.fnt:21406:application/unknown:1
+t:fonts/FontNums.fnt:fonts/FontNums-10ab80c97faeaabdf8f86f7815bab206.fnt:21403:application/unknown:1
+i:fonts/FontNums.png:fonts/FontNums-2b008fd0398187a99615278e0144bbcc.png:68944:image/png:1
 d:sound:sound:0:application/unknown:1
-a:sound/Bonus Swap.mp3:sound/Bonus Swap-17adb4e9ce46b56fcdbf0e3e45e1d8ed.mp3:18277:audio/mpeg:1
-a:sound/Bonus Time.mp3:sound/Bonus Time-3e854b19f06ec9654d2ab0388ef8c408.mp3:27001:audio/mpeg:1
-a:sound/Button.mp3:sound/Button-34ca52d8683cbad5409c6904859e7508.mp3:1388:audio/mpeg:1
-a:sound/Buy.mp3:sound/Buy-0a3b41f7b9670f447e60d4052613814b.mp3:15212:audio/mpeg:1
-a:sound/CollectGem1.mp3:sound/CollectGem1-08c1fa493cea9edea5e36d7b8f4ff630.mp3:14336:audio/mpeg:1
-a:sound/CollectGem2.mp3:sound/CollectGem2-bce0a7baddc8a46e833c13081cfc3feb.mp3:14336:audio/mpeg:1
-a:sound/CollectGem3.mp3:sound/CollectGem3-5241eae34482cad5ac7a4c96fe1d7519.mp3:14336:audio/mpeg:1
-a:sound/CollectGem4.mp3:sound/CollectGem4-00bebd0ac0520620d496722568b6785e.mp3:10240:audio/mpeg:1
-a:sound/Fall.mp3:sound/Fall-acdbe2a2c6d6921197a6b91f24ac3343.mp3:2540:audio/mpeg:1
-a:sound/Gem Swish.mp3:sound/Gem Swish-03ae8dd49aabe55d117efaa935acc43b.mp3:5738:audio/mpeg:1
-a:sound/Level Completed.mp3:sound/Level Completed-dd5f1fd9cefefd90735b4cf49fb27fa3.mp3:31181:audio/mpeg:1
-a:sound/Level Failed.mp3:sound/Level Failed-f08170d837206741014b42731ff7934b.mp3:52496:audio/mpeg:1
-a:sound/Magic Color.mp3:sound/Magic Color-6342292b2f36829566e7fe710d3fe93f.mp3:27054:audio/mpeg:1
-a:sound/Magic Explosion.mp3:sound/Magic Explosion-988716a66f0ecbff10820f1f0b3bc89c.mp3:15769:audio/mpeg:1
-a:sound/Star Fill.mp3:sound/Star Fill-0a02aa9d5d42c2b32350585f34c47058.mp3:20367:audio/mpeg:1
-a:sound/Star1.mp3:sound/Star1-d5d13913870fc4d1c547449f6a05d85e.mp3:13626:audio/mpeg:1
-a:sound/Star2.mp3:sound/Star2-8802129b17ed155d90f4e0a59124f1ac.mp3:14044:audio/mpeg:1
 a:sound/Star3.mp3:sound/Star3-ada474c7d719ea9c9928238900961318.mp3:16134:audio/mpeg:1
-a:sound/Treasure.mp3:sound/Treasure-e7501941e8cb69e2ae77211396fffe72.mp3:26583:audio/mpeg:1
+a:sound/Bonus Time.mp3:sound/Bonus Time-3e854b19f06ec9654d2ab0388ef8c408.mp3:27001:audio/mpeg:1
+a:sound/Star2.mp3:sound/Star2-8802129b17ed155d90f4e0a59124f1ac.mp3:14044:audio/mpeg:1
+a:sound/CollectGem1.mp3:sound/CollectGem1-08c1fa493cea9edea5e36d7b8f4ff630.mp3:14336:audio/mpeg:1
+a:sound/CollectGem3.mp3:sound/CollectGem3-5241eae34482cad5ac7a4c96fe1d7519.mp3:14336:audio/mpeg:1
+a:sound/Level Completed.mp3:sound/Level Completed-dd5f1fd9cefefd90735b4cf49fb27fa3.mp3:31181:audio/mpeg:1
+a:sound/Star1.mp3:sound/Star1-d5d13913870fc4d1c547449f6a05d85e.mp3:13626:audio/mpeg:1
+a:sound/CollectGem2.mp3:sound/CollectGem2-bce0a7baddc8a46e833c13081cfc3feb.mp3:14336:audio/mpeg:1
+a:sound/Button.mp3:sound/Button-34ca52d8683cbad5409c6904859e7508.mp3:1388:audio/mpeg:1
+a:sound/Magic Explosion.mp3:sound/Magic Explosion-988716a66f0ecbff10820f1f0b3bc89c.mp3:15769:audio/mpeg:1
+a:sound/CollectGem4.mp3:sound/CollectGem4-00bebd0ac0520620d496722568b6785e.mp3:10240:audio/mpeg:1
+a:sound/Star Fill.mp3:sound/Star Fill-0a02aa9d5d42c2b32350585f34c47058.mp3:20367:audio/mpeg:1
+a:sound/Level Failed.mp3:sound/Level Failed-f08170d837206741014b42731ff7934b.mp3:52496:audio/mpeg:1
+a:sound/Gem Swish.mp3:sound/Gem Swish-03ae8dd49aabe55d117efaa935acc43b.mp3:5738:audio/mpeg:1
 a:sound/Window Open.mp3:sound/Window Open-2d3eecabcf1b2f4990cc72fdf743084d.mp3:7828:audio/mpeg:1
+a:sound/Fall.mp3:sound/Fall-acdbe2a2c6d6921197a6b91f24ac3343.mp3:2540:audio/mpeg:1
+a:sound/Bonus Swap.mp3:sound/Bonus Swap-17adb4e9ce46b56fcdbf0e3e45e1d8ed.mp3:18277:audio/mpeg:1
+a:sound/Treasure.mp3:sound/Treasure-e7501941e8cb69e2ae77211396fffe72.mp3:26583:audio/mpeg:1
+a:sound/Magic Color.mp3:sound/Magic Color-6342292b2f36829566e7fe710d3fe93f.mp3:27054:audio/mpeg:1
+a:sound/Buy.mp3:sound/Buy-0a3b41f7b9670f447e60d4052613814b.mp3:15212:audio/mpeg:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
