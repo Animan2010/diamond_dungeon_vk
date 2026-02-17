@@ -122,7 +122,16 @@
 
                       }
                       window.HideBanner = function hideBanner() {
-
+                            vkBridge.send('VKWebAppHideBannerAd')
+                              .then((data) => {
+                                if (data.result) {
+                                  // Баннерная реклама скрыта
+                                }
+                              })
+                              .catch((error) => {
+                                // Ошибка
+                                console.log(error);
+                              });
                       }
                       window.ShowBanner = function showBanner() {
                         vkBridge.send('VKWebAppGetClientVersion').then((data) => {
