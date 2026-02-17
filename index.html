@@ -142,6 +142,7 @@
                                        console.log(error);
                                      });
                       }
+                     window.ShowBanner();
                     window.ShowInterstitial = function showInterstitial() {
                         vkBridge.send("VKWebAppShowNativeAds", {"ad_format": "interstitial"});
                     }
