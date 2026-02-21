@@ -45,6 +45,7 @@
 
                     window.InitPlayer = function initPlayer() {
                         window.OnFlagsReceived("paying", "0", "20");
+                        console.log("Init flags");
                     }
                     window.LoadInapps = function loadInapps() {
 
@@ -151,7 +152,6 @@
                                        console.log(error);
                                      });
                       }
-                     window.ShowBanner();
                     window.ShowInterstitial = function showInterstitial() {
                         vkBridge.send("VKWebAppShowNativeAds", {"ad_format": "interstitial"});
                     }
@@ -165,7 +165,19 @@
                      window.LanguageCheck("ru");
                      window.InitializeAfterYandexInit();
                      window.InitPlatformSettings("vk");
-                     vkBridge.send("VKWebAppInit", {});
+                     vkBridge.send('VKWebAppInit')
+                          .then((data) => {
+                            if (data.result) {
+                              // Приложение инициализировано
+                                window.ShowBanner(); // Вызываем показ баннера, проверь не поломает ли ниче после 17.02.2026
+                            } else {
+                              // Ошибка
+                            }
+                          })
+                          .catch((error) => {
+                            // Ошибка
+                            console.log(error);
+                          });
               }
 
               window.AdOnScreen = false;
